@@ -9,10 +9,6 @@ A Roman numeral converter application — the second project in FreeCodeCamp's J
 
 The project only consists of **JavaScript** + **HTML** + **CSS** and was made as a part of FreeCodeCamp's JavaScript Algorithms and Data Structures course.
 
->[My official FCC's Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)
-
-![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png)
-
 ---
 
 ## 📋 Project Requirements
@@ -47,7 +43,9 @@ This project fulfills all **10 user stories** from FreeCodeCamp's "Build a Roman
 
 The project only works in a range from 1 to 3999 so it didn't feel that hard as the Palindrome one. As far as I remember I especially liked the EventListener applying effects on pressing buttons back then. Still getting the logic right required more research to accomplish the project. It's a simple one function logic but still so sharp.
 
-![Page Gif](./public/demo.gif)
+| **Roman Numeral Converter Preview** |
+|---|
+| ![Page Gif](./public/demo.gif) |
 
 <div align="right"><i>submitted to FreeCodeCamp on Nov 16, 2024</i></div>
 
@@ -58,5 +56,6 @@ The project only works in a range from 1 to 3999 so it didn't feel that hard as 
 [![Live Demo](https://img.shields.io/badge/demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rue-eru.github.io/FCC-JS-2-roman-numeral-converter/)
 ---
 
-*Part of my [FreeCodeCamp journey](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8)*
-
+| My official [FreeCodeCamp JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/javascript-algorithms-and-data-structures-v8) |
+|---|
+| ![Certificate](./public/JavaScript-Algorithms-and-Data-Structures.png) |
