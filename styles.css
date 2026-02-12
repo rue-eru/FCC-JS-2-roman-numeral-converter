@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&family=Pixelify+Sans:wght@400..700&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Tiny5&display=swap');
+html {
+    background: linear-gradient(#000814 25%, #001d3d);
+    color: aliceblue;
+    font-family: Londrina Sketch, serif;
+    box-sizing: border-box;
+    font-size: 2.3em;
+}
+
+body {
+    height: 150vh;
+    width: 30%;
+    min-width: 450px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+.check, 
+#output {
+    background-color: #00356651;
+    border: none;
+    border-radius: 12px;
+    padding: 1rem;
+    border: solid 2px #ffd60a;
+}
+
+.enter {
+    margin-top: -0.5rem;
+    margin-bottom: 0.3rem;
+}
+
+#number {
+    font-size: 0.9rem;
+    border: none;
+    background-color: #f0f8ff00;
+    border-bottom: 3px solid #ffc300;
+    color: #fff;
+    font-family: Londrina Sketch, serif;
+    text-align: center;
+    width: 100%;
+}
+
+
+#number:focus {
+    border: none;
+}
+
+input:focus {
+    outline: #ffc300 3px solid;
+}
+
+#convert-btn {
+    color: rgb(6, 41, 79);
+    font-weight: bold;
+    background-color: #ffc300;
+    font-family: Londrina Sketch, serif;
+    font-size: 1.2rem;
+    width: 100%;
+    height: 60px;
+}
+
+.convert-number {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    row-gap: 0.5rem;
+    margin: 0 auto;
+    width: 90%;
+}
+
