@@ -3,6 +3,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Roman Numerals](https://img.shields.io/badge/Roman_Numeral_Converter-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
+Built in 2024 to showcase my first projects and mark the completion of this learning journey.
+
 A Roman numeral converter application — the second project in FreeCodeCamp's JavaScript Algorithms and Data Structures certification. Converts Arabic numbers (1-3999) into Roman numerals with proper subtraction notation (IV, IX, XL, XC, CD, CM).
 
 The project only consists of **JavaScript** + **HTML** + **CSS** and was made as a part of FreeCodeCamp's JavaScript Algorithms and Data Structures course.
